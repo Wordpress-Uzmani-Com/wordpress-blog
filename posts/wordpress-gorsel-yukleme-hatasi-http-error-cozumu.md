@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-gorsel-yukleme-hatasi-http-error-cozumu"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-gorsel-yukleme-hatasi-http-error-cozumu.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "görsel-yükleme"]
+tags: ["wordpress-rehberleri","görsel-yükleme"]
 description: "Ortam kütüphanesinde görsel yükleme sırasında çıkan HTTP hatası: GD/Imagick kütüphanesi, bellek ve dosya izni kaynaklı çözümler."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **Ortam Kütüphanesi HTTP Görs
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-gorsel-yukleme-hatasi-http-error-cozumu) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
