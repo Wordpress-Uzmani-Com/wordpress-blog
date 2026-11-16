@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-veritabani-onarma-ve-tablo-tamiri"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-veritabani-onarma-ve-tablo-tamiri.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "veritabanı-tablolarını"]
+tags: ["wordpress-rehberleri","veritabanı-tablolarını"]
 description: "WordPress bozuk veritabanı tablolarını phpMyAdmin ve WP_ALLOW_REPAIR ile onarma; veri kaybı yaşamadan tabloları yeniden çalıştırın."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **Bozuk Veritabanı Tabloların�
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-veritabani-onarma-ve-tablo-tamiri) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
