@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-admin-sifresi-sifirlama-phpmyadmin"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-admin-sifresi-sifirlama-phpmyadmin.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "phpMyAdmin-ile"]
+tags: ["wordpress-rehberleri","phpMyAdmin-ile"]
 description: "WordPress yönetici şifresini phpMyAdmin ile sıfırlama: wp_users tablosunda MD5 ile yeni şifre tanımlayıp panele yeniden giriş yapın."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **Yönetici Şifresini phpMyAdmi
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-admin-sifresi-sifirlama-phpmyadmin) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
