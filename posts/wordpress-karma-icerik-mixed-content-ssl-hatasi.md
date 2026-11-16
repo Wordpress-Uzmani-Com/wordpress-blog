@@ -6,7 +6,7 @@ category: "WordPress Güvenliği"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-karma-icerik-mixed-content-ssl-hatasi"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-karma-icerik-mixed-content-ssl-hatasi.jpg"
 read_time: "3 dk"
-tags: ["wordpress-güvenliği", "mixed-content"]
+tags: ["wordpress-güvenliği","mixed-content"]
 description: "SSL sonrası güvenli değil uyarısı alıyorsanız mixed content (karışık içerik) kaynaklarını bulup tüm adresleri HTTPS'ye çevirin."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **SSL Sonrası Güvenli Değil H
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-karma-icerik-mixed-content-ssl-hatasi) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
