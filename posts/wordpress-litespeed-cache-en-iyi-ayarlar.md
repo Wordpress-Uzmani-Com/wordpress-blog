@@ -6,7 +6,7 @@ category: "Hız ve Performans"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-litespeed-cache-en-iyi-ayarlar"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-litespeed-cache-en-iyi-ayarlar.jpg"
 read_time: "3 dk"
-tags: ["hız-ve-performans", "LiteSpeed-Cache"]
+tags: ["hız-ve-performans","LiteSpeed-Cache"]
 description: "LiteSpeed Cache ayarları: sayfa önbelleği, CSS/JS birleştirme, görsel optimizasyonu ve QUIC.cloud ile en iyi performans yapılandırması."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **LiteSpeed Cache En İyi Perfor
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-litespeed-cache-en-iyi-ayarlar) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
