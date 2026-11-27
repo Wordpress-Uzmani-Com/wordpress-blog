@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-admin-paneline-giris-yapilamiyor-sorunu"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-admin-paneline-giris-yapilamiyor-sorunu.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "wp-admin-giriş-yapmıyor"]
+tags: ["wordpress-rehberleri","wp-admin-giriş-yapmıyor"]
 description: "wp-admin giriş yapmıyor ve sayfa yenileniyorsa çerez, alan adı ve önbellek ayarlarını düzelterek login döngüsünü kalıcı olarak giderin."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **wp-admin Giriş Yapmıyor ve S
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-admin-paneline-giris-yapilamiyor-sorunu) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
