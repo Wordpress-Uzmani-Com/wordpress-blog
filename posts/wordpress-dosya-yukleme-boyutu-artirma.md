@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-dosya-yukleme-boyutu-artirma"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-dosya-yukleme-boyutu-artirma.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "yükleme-limit"]
+tags: ["wordpress-rehberleri","yükleme-limit"]
 description: "WordPress maksimum yükleme boyutu (upload limit) nasıl artırılır? php.ini, .htaccess ve hosting paneli üzerinden yükleme limitini yükseltin."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **Maksimum Yükleme Boyutunu** s
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-dosya-yukleme-boyutu-artirma) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
