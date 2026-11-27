@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-cok-fazla-yonlendirme-too-many-redirects"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-cok-fazla-yonlendirme-too-many-redirects.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "yönlendirme-döngüsü"]
+tags: ["wordpress-rehberleri","yönlendirme-döngüsü"]
 description: "ERR_TOO_MANY_REDIRECTS yönlendirme döngüsü: site_url ve home değerleri, SSL ve Cloudflare ayarlarını düzelterek sitenizi yeniden açın."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **ERR_TOO_MANY_REDIRECTS** sorun
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-cok-fazla-yonlendirme-too-many-redirects) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
