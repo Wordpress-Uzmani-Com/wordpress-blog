@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-guncelleme-sonrasi-site-coktu-nasil-kurtarilir"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-guncelleme-sonrasi-site-coktu-nasil-kurtarilir.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "güncelleme-sonrası"]
+tags: ["wordpress-rehberleri","güncelleme-sonrası"]
 description: "WordPress güncelleme sonrası çöken siteyi kurtarma: eklentiyi devre dışı bırakma, sürüm geri alma ve yedekten dönüş adımları."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **Güncelleme Sonrası Çöken S
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-guncelleme-sonrasi-site-coktu-nasil-kurtarilir) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
