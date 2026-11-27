@@ -6,7 +6,7 @@ category: "WordPress Rehberleri"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-eposta-gondermiyor-smtp-hatasi-cozumu"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-eposta-gondermiyor-smtp-hatasi-cozumu.jpg"
 read_time: "3 dk"
-tags: ["wordpress-rehberleri", "e-posta-göndermiyor"]
+tags: ["wordpress-rehberleri","e-posta-göndermiyor"]
 description: "WordPress e-posta göndermiyor mu? wp_mail() engelini SMTP kurulumu, SPF ve DKIM kayıtlarıyla aşıp form ve sipariş maillerini ulaştırın."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **E-posta Göndermiyor** sorunu 
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-eposta-gondermiyor-smtp-hatasi-cozumu) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
