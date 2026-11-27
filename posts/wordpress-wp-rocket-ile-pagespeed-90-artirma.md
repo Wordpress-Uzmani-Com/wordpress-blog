@@ -6,7 +6,7 @@ category: "Hız ve Performans"
 canonical_url: "https://wordpressuzmani.com/blog/wordpress-wp-rocket-ile-pagespeed-90-artirma"
 cover_image: "https://wordpressuzmani.com/uploads/blog/wordpress-wp-rocket-ile-pagespeed-90-artirma.jpg"
 read_time: "3 dk"
-tags: ["hız-ve-performans", "WP-Rocket"]
+tags: ["hız-ve-performans","WP-Rocket"]
 description: "WP Rocket ile Core Web Vitals değerlerini iyileştirip PageSpeed 90+ skoru alma: önbellek, gecikmeli JS ve kritik CSS ayarları."
 ---
 
@@ -101,5 +101,5 @@ Eğer yukarıdaki adımlara rağmen sitenizdeki **WP Rocket ile Core Web Vitals 
 ---
 
 > 📌 **Orijinal Kaynak:** Bu makale ilk olarak [WordPress Uzmanı](https://wordpressuzmani.com/blog/wordpress-wp-rocket-ile-pagespeed-90-artirma) üzerinde yayınlanmıştır.
-> 
-> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel tema/eklenti ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
+>
+> 🛠️ **WordPress Teknik Destek & Danışmanlık:** Hız optimizasyonu, güvenlik temizliği, sunucu yönetimi ve özel geliştirme ihtiyaçlarınız için [WordPress Uzmanı](https://wordpressuzmani.com) adresinden bize ulaşabilirsiniz.
